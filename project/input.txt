@@ -1,0 +1,15 @@
+Dimensions of the rectangular plate, (a*b*t) [m]
+	0.5		    1		   0.005
+Material characteristics, E [Mpa] and v
+	70000		0.33
+Relative center of the load, (x, y)
+	0.5		    0.5
+Relative dimensions of distributed load, (c/a, d/b)
+	1		    1
+Intensity uniformly distributed transverse load [pa]
+	100.0
+Boundary Conditions (1-free, 2-simply supported, 3-built-in, 4-symmetry)
+   upper  right  lower   left
+    2		2	   2	   2
+Number of points (n_x, n_y)
+	31	        61

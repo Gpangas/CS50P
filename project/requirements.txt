@@ -1,0 +1,7 @@
+To run this algorithm is needed the following libraries:
+
+import sys
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+import pytest
